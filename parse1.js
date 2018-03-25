@@ -1,4 +1,4 @@
-
+//Questions
 //Prints the number of features with “lit” property yes
 var file= require('./combined.json');
 var count=0;
